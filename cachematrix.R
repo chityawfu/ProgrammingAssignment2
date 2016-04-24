@@ -5,7 +5,7 @@
 ## stores a matrix and caches its inverse.
 
 ## This function creates a special "matrix" object which is really a list containing a function to
-## a) get the value of the matrix, b) set the value of the matrix, c) get the inverse of materix 
+## a) get the value of the matrix, b) set the value of the matrix, c) get the inverse of matrix 
 ## d) set the inverse of matrix
 
 
